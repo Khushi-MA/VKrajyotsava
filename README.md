@@ -1,16 +1,5 @@
 ## Support the Nomination of Mr. Korgal Virupakshappa (My Grand Father) for the Rajyotsava Award 2024
 
-Attach **02_Biodata_V C Korgal.pdf** - [Download file]({{02_Biodata_V C Korgal.pdf}})
-
-1. <a id="raw-url" href="https://raw.githubusercontent.com/Khushi-MA/VKrajyotsava/blob/main/02_Biodata_V C Korgal.pdf">Download FILE</a>
-
-2. <a id="raw-url" href="https://raw.githubusercontent.com/Khushi-MA/VKrajyotsava/02_Biodata_V C Korgal.pdf">Download FILE</a>
-
-3. <a href="https://octodex.github.com/VKrajyotsava/blob/main/02_Biodata_V C Korgal.pdf" title="Download" download>Download</a>
-
-4. [goo](https://drive.google.com/uc?export=download&id=1QD6Xr2iZ6mfzbGslyacXUbqwt8lkf3HR)
-
-
 My dear friends, I kindly ask for your support in nominating my grandfather, Mr. Korgal Virupakshappa, for this year’s Rajyotsava Award. 
 
 Your vote and encouragement would mean a lot in recognizing his outstanding contributions.
@@ -202,7 +191,7 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
         ಕೋರಗಲ್ ವಿರುಪಾಕ್ಷಪ್ಪನವರು ಲೇಖಕರಾಗಿ ಕಥಾಸಂಕಲನ, ಮಕ್ಕಳಕಥೆ, ಕಾವ್ಯ, ಪ್ರಬಂಧ ಸಂಕಲನ, ಪ್ರವಾಸ ಕಥನ, ಪುರಾಣ, ವಚನ ಸಂಕಲನ, ಗಣಿತ ಸಂಶೋಧನೆ, ನಾಟಕ, ಚರಿತ್ರೆ, ಸಾಹಿತ್ಯ ಸಂಪಾದನೆ ವಿಭಾಗಗಳಲ್ಲಿ ೨೩ ಪುಸ್ತಕಗಳನ್ನು ಪ್ರಕಟಿಸಿದ್ದಾರೆ. ಸುಧಾ, ಮಯೂರ ಹಾಗೂ ಅನೇಕ ಪತ್ರಿಕೆಗಳಲ್ಲಿ ಕಥೆ, ಅಂಕಣ ಪ್ರಕಟವಾಗಿವೆ. ಆಕಾಶವಾಣಿಯಲ್ಲಿ ಚಿಂತನ, ಕಥೆ, ಕಾವ್ಯ, ನಾಟಕಗಳು ಪ್ರಸಾರವಾಗಿವೆ. ತಾಲೂಕ, ಜಿಲ್ಲೆ ಹಾಗೂ ಅಖಿಲ ಭಾರತ ಸಾಹಿತ್ಯಸಮ್ಮೇಳನಗಳ ಕಮ್ಮಟಗಳಲ್ಲಿ ಭಾಗವಹಿಸಿದ್ದಾರೆ. ಹನ್ನೆರಡನೆಯ ಶತಮಾನದಲ್ಲಿ ಜೈನ ಕವಿ ರಾಜಾದಿತ್ಯನಿಂದ ಕನ್ನಡದಲ್ಲಿ ರಚಿತವಾದ ಗಣಿತ ಕೃತಿಗಳ ಬಗ್ಗೆ ಸಂಶೋಧನೆ ಮಾಡಿದ್ದಾರೆ. ಗಣಿತ ಶಿಕ್ಷಕರಾಗಿ, ನಾಲ್ಕು ಕಥಾಸಂಕಲನಗಣ್ನು ಪ್ರಕಟಸಿದ್ದಾರೆ. ಹಾವೇರಿ, ಧಾರವಾಡ ಜಿಲ್ಲೆಯಲ್ಲೆಲ್ಲ ಕಥಾಕಮ್ಮಟಗಳನ್ನು ಏರ್ಪಡಿಸಿ ಕಥೆಗಾರ ರಸಂಖ್ಯೆಯನ್ನು ಬೆಳಸಿದ್ದಾರೆ. ಅವರ ಸಂಪಾದನೆಯಲ್ಲಿ ಮೂರು ಜಿಲ್ಲಾ ಪ್ರಾತಿನಿಧಿಕ ಕಥಾಸಂಕಲನಗಳು ಪ್ರಕಟಗೊಂಡಿವೆ. ಇಂಗ್ಲಿಷಿನ ಭರಾಟೆಯ ಈದಿನಮಾನಗಳಲ್ಲಿ, ಹಾವೇರಿಗೊಂದು ಒಳ್ಳೆಯ ಶಾಲೆಯನ್ನು ತರಬೇಕೆಂದು ಗೆಳೆಯರ ಬಳಗದವತಿಯಿಂದ ಉತ್ಕೃಷ್ಟ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಶಾಲೆಯನ್ನು ಸ್ಥಾಪಿಸಿ ನಡೆಯಿಸಿಕೊಂಡು ಬರುತ್ತಿದ್ದಾರೆ. ಮಾರಕರೋಗಗಳಿಗೆ ಲಸಿಕೆಗಳೆಇರದಿದ್ದ  ೧೯೭೦ರ ದಶಕದಿಂದ ಹೊರಗಿನಿಂದ ಲಸಿಕೆಯನ್ನು ತರಿಸಿ ಗೆಳೆಯರಬಳಗದಿಂದ ಪೋಲಿಯೊ ಲಸಿಕೆ, ಬಿಸಿಜಿ ಲಸಿಕೆ, ಧಮಾರ ರೋಗದ ಲಸಿಕೆಗಳನ್ನು ಪ್ರತಿ ತಿಂಗಳು ಕೊಡುವ ವ್ಯವಸ್ಥೆಯನ್ನು ಮಾಡುವ ಮೂಲಕ ವೈದ್ಯಕೀಯ ಸೇವೆಯನ್ನೂ ನೀಡಿದ್ದಾರೆ. ಕೋರಗಲ್ ವಿರುಪಾಕ್ಷಪ್ಪನವರು ಅವರು ಒಳ್ಳೆಯ ಸಂಶೋಧಕರಾದರೂ, ಪ್ರಚಾರ ಪ್ರೀಯರಲ್ಲದಿದ್ದುದಕ್ಕೆ ಬೆಳಕಿಗೆ ಬಂದಿಲ್ಲ. ಕೋರಗಲ್ ವಿರುಪಾಕ್ಷಪ್ಪನವರು ಕನ್ನಡ ಪತ್ರಿಕೆಗಳಿಗೆ ಕಥೆ ಬರೆಯುತ್ತಿದ್ದುರಿಂದ, ಕಥೆಗಾರರೆಂದು ಗುರುತಿಸಿಕೊಂಡು ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ. ಇವರು ಒಟ್ಟು ೨೫ ಪುಸ್ತಕಗಳನ್ನು ವಿವಿಧ ವಿಷಯಗಳಲ್ಲಿ ಪ್ರಕಟಿಸಿದ್ದಾರೆ. ಒಟ್ಟು ಏಳು ರೇಡಿಯೋ ಕಾರ್ಯಕ್ರಮಗಳಲ್ಲಿ ತಮ್ಮ ಕೊಡುಗೆಯನ್ನು ನೀಡಿದ್ದಾರೆ. ಜಗದ ಅಭಾವದ ಕಾರಣ ಎಲ್ಲ ವಿವರ ಇಲ್ಲಿ ನೀಡಲು ಆಗುತ್ತಿಲ್ಲ.
         ```
 
-7. Check **I Agree**, enter capcha and click **Submit** at the bottom of the page
+7. Check **I Agree**, enter captcha and click **Submit** at the bottom of the page
 
     ![Alt text](assets/p18.jpg)
 
@@ -212,9 +201,11 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
     ![Alt text](assets/p20.jpg)
 
 9. Selct as given in the below picture
-    and click choose file
+    Download this pdf: [02_Biodata_V C Korgal.pdf](https://drive.google.com/uc?export=download&id=1QD6Xr2iZ6mfzbGslyacXUbqwt8lkf3HR)
 
-    and click **save annexure**
+   Now click **choose file** and attach that 02_Biodata_V C Korgal.pdf
+
+    Click **save annexure**
 
     ![Alt text](assets/p21.jpg)
     ![Alt text](assets/p22.jpg)
@@ -226,7 +217,7 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
     ![Alt text](assets/p25.jpg)
 
 12. You get the acknowledgement page
-    (Thankyou soooooo much)
+    (Thank you soooooo much)
 
     ![Alt text](assets/p26.jpg)
 
