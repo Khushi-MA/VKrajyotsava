@@ -30,7 +30,7 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
     
     Click Continue
 
-    ![Alt text](assets/p03.png)
+   <img src="assets/p03.png"  width="50%">
 
 
 4. The below given window will pop up. 
@@ -41,7 +41,8 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 
     Click Allow
 
-    ![Alt text](assets/p04.png)
+   <img src="assets/p04.png"  width="50%">
+
 
 ### Start your Regsitration to Seva Sindhu Portal
 
@@ -49,13 +50,15 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 
     (Please remember this as you might need this in future)
 
-    ![Alt text](assets/p05.png)
+   <img src="assets/p05.png"  width="50%">
+
 
 6. Enter the OTP recieved in email and mobile number respectively. Please be patient and maybe listen to some music as it might get delayed to recieve the OTP.
 
     After entering, click **Validate**
 
-    ![Alt text](assets/p06.png)
+   <img src="assets/p06.png"  width="50%">
+
 
 > 🥳🥳 Congratulations You have registered yourself to Seva Sindhu Portal
 
@@ -75,13 +78,15 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
     in left section
     Under **Apply for services** click **View all available services**
 
-    ![Alt text](assets/p08.jpg)
-    ![Alt text](assets/p09.jpg)
+
+    | ![alt text](assets/p08.jpg) | ![alt text](assets/p09.jpg) |
+    |--------------------------|--------------------------|
+
 
 3. The below windlow shows. In search bar, type "Rajy" only option is left, click that
 
-    ![Alt text](assets/p10.jpg)
-    ![Alt text](assets/p11.jpg)
+    | ![Alt text](assets/p10.jpg) | ![Alt text](assets/p11.jpg) |
+    |--------------------------|--------------------------|
 
 4. Below given window. DO NOT DOWNLOAD ANYTHING. Maximise the window, and just click **Proceed to apply**
 
@@ -90,11 +95,10 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 
 4. Below given window opens. Scroll down and start filling the information. 
 
-    ![Alt text](assets/p13.jpg)
+Check the box for consnet and scroll down
 
-    Check the box for consnet and scroll down
-
-    ![Alt text](assets/p14.jpg)
+    | ![Alt text](assets/p13.jpg) | ![Alt text](assets/p14.jpg) |
+    |--------------------------|--------------------------|
 
 5. In **applicant details** section
 
@@ -195,30 +199,28 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 
    ![Alt text](assets/p18.jpg)
 
-9. Below given window pops up.
+8. Below given window pops up.
 
    Scroll down and click **Attach annexure**
 
-   ![Alt text](assets/p19.jpg)
-
-   ![Alt text](assets/p20.jpg)
+   | ![Alt text](assets/p19.jpg) | ![Alt text](assets/p20.jpg) |
+   |--------------------------|--------------------------|
 
 10. Selct as given in the below picture
 
-   Download this pdf: [02_Biodata_V C Korgal.pdf](https://drive.google.com/uc?export=download&id=1QD6Xr2iZ6mfzbGslyacXUbqwt8lkf3HR)
+    Download this pdf: [02_Biodata_V C Korgal.pdf](https://drive.google.com/uc?export=download&id=1QD6Xr2iZ6mfzbGslyacXUbqwt8lkf3HR)
 
-   Now click **choose file** and attach that 02_Biodata_V C Korgal.pdf
+    Now click **choose file** and attach that 02_Biodata_V C Korgal.pdf
 
     Click **save annexure**
 
-    ![Alt text](assets/p21.jpg)
-    ![Alt text](assets/p22.jpg)
-    ![Alt text](assets/p23.jpg)
+    | ![Alt text](assets/p21.jpg) | ![Alt text](assets/p22.jpg) | ![Alt text](assets/p23.jpg) |
+    |--------------------------|--------------------------|------------|
 
 11. You go back to the declaration page, scroll down and press submit
 
-    ![Alt text](assets/p24.jpg)
-    ![Alt text](assets/p25.jpg)
+    | ![Alt text](assets/p24.jpg) | ![Alt text](assets/p25.jpg) |
+    |--------------------------|--------------------------|
 
 12. You get the acknowledgement page
     (Thank you soooooo much)
@@ -228,8 +230,8 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 13. You can export a copy.
 
     Don't forget to log out!
-    ![Alt text](assets/p27.jpg)
-    ![Alt text](assets/p28.jpg)
+    | ![Alt text](assets/p27.jpg) | ![Alt text](assets/p28.jpg) |
+    |--------------------------|--------------------------|
 
 # Thankyou soo much for for the support
 
