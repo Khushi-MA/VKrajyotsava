@@ -4,6 +4,7 @@ My dear friends, I kindly ask for your support in nominating my grandfather, Mr.
 
 Your vote and encouragement would mean a lot in recognizing his outstanding contributions.
 
+(For any concerns, feel free to mail me. Thankyou)
 
 ## Registering yourself to SevaSindhu
 
