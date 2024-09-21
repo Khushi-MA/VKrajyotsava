@@ -90,7 +90,8 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 
 4. Below given window. DO NOT DOWNLOAD ANYTHING. Maximise the window, and just click **Proceed to apply**
 
-    ![Alt text](assets/p12.jpg)
+   <img src="assets/p12.jpg"  width="50%">
+
 
 
 4. Below given window opens. Scroll down and start filling the information. 
@@ -104,7 +105,7 @@ Check the box for consnet and scroll down
 
     Please fill the **address in your aadhar card** and the **mobile number you gave for Seva Sindhu**
 
-    ![Alt text](assets/p15.jpg)
+   <img src="assets/p15.jpg"  width="50%">
 
 ### Filling details of Nominee
 6. in Grid details
@@ -115,7 +116,8 @@ Check the box for consnet and scroll down
     - Select the field: ಸಂಕೀರ್ಣ
         **(At the end of drop field)**
 
-        ![Alt text](assets/p17.jpg)
+        <img src="assets/p17.png"  width="50%">
+
 
     - Select Sub Category -
         **LEAVE BLANK**
@@ -197,7 +199,7 @@ Check the box for consnet and scroll down
 
 7. Check **I Agree**, enter captcha and click **Submit** at the bottom of the page
 
-   ![Alt text](assets/p18.jpg)
+   <img src="assets/p18.jpg"  width="50%">
 
 8. Below given window pops up.
 
@@ -225,7 +227,7 @@ Check the box for consnet and scroll down
 12. You get the acknowledgement page
     (Thank you soooooo much)
 
-    ![Alt text](assets/p26.jpg)
+   <img src="assets/p26.jpg"  width="50%">
 
 13. You can export a copy.
 
