@@ -116,7 +116,7 @@ Check the box for consnet and scroll down
     - Select the field: ಸಂಕೀರ್ಣ
         **(At the end of drop field)**
 
-        <img src="assets/p17.png"  width="50%">
+        <img src="assets/p17.jpg"  width="50%">
 
 
     - Select Sub Category -
