@@ -2,7 +2,11 @@
 
 Attach **02_Biodata_V C Korgal.pdf** - [Download file]({{02_Biodata_V C Korgal.pdf}})
 
-<a id="raw-url" href="https://raw.githubusercontent.com/Khushi-MA/VKrajyotsava/blob/main/02_Biodata_V%20C%20Korgal.pdf">Download FILE</a>
+1. <a id="raw-url" href="https://raw.githubusercontent.com/Khushi-MA/VKrajyotsava/blob/main/02_Biodata_V C Korgal.pdf">Download FILE</a>
+
+2. <a id="raw-url" href="https://raw.githubusercontent.com/Khushi-MA/VKrajyotsava/02_Biodata_V C Korgal.pdf">Download FILE</a>
+
+3. <a href="https://octodex.github.com/VKrajyotsava/blob/main/02_Biodata_V C Korgal.pdf" title="Download" download>Download</a>
 
 
 My dear friends, I kindly ask for your support in nominating my grandfather, Mr. Korgal Virupakshappa, for this year’s Rajyotsava Award. 
