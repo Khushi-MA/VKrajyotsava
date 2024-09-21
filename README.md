@@ -1,5 +1,10 @@
 ## Support the Nomination of Mr. Korgal Virupakshappa (My Grand Father) for the Rajyotsava Award 2024
 
+Attach **02_Biodata_V C Korgal.pdf** - [Download file]({{02_Biodata_V C Korgal.pdf}})
+
+<a id="raw-url" href="https://raw.githubusercontent.com/Khushi-MA/VKrajyotsava/blob/main/02_Biodata_V%20C%20Korgal.pdf">Download FILE</a>
+
+
 My dear friends, I kindly ask for your support in nominating my grandfather, Mr. Korgal Virupakshappa, for this year’s Rajyotsava Award. 
 
 Your vote and encouragement would mean a lot in recognizing his outstanding contributions.
@@ -203,27 +208,23 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 9. Selct as given in the below picture
     and click choose file
 
-    Attach **02_Biodata_V C Korgal.pdf**
-    
-    [Download PDF](./02_Biodata_V C Korgal.pdf)
-
     and click **save annexure**
 
     ![Alt text](assets/p21.jpg)
     ![Alt text](assets/p22.jpg)
     ![Alt text](assets/p23.jpg)
 
-10. You go back to the declaration page, scroll down and press submit
+11. You go back to the declaration page, scroll down and press submit
 
     ![Alt text](assets/p24.jpg)
     ![Alt text](assets/p25.jpg)
 
-11. You get the acknowledgement page
+12. You get the acknowledgement page
     (Thankyou soooooo much)
 
     ![Alt text](assets/p26.jpg)
 
-12. You can export a copy.
+13. You can export a copy.
 
     Don't forget to log out!
     ![Alt text](assets/p27.jpg)
