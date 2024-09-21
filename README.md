@@ -4,15 +4,20 @@ My dear friends, I kindly ask for your support in nominating my grandfather, Mr.
 
 Your vote and encouragement would mean a lot in recognizing his outstanding contributions.
 
+(For any concerns, feel free to mail me. Thankyou)
 
 ## Registering yourself to SevaSindhu
 
 
 1. Open Login/register portal
-    Seva Sindhu portal link:
+
+   Seva Sindhu portal link:
+   
     [https://sevasindhuservices.karnataka.gov.in/login.do#](https://sevasindhuservices.karnataka.gov.in/login.do#)
 
-2. Click on **New User? Register here** 
+   <img src="assets/p29.png"  width="50%">
+
+3. Click on **New User? Register here** 
     
     (If you already have an account, It'll say, account exists and will ask you to login. In case you don't remember the password, you can select **Forgot Password** and reset with the registered mobile number)
 
@@ -66,6 +71,7 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 ## Nomination procedure
 
 1.  Open Login/register portal
+
     Seva Sindhu portal link:
     [https://sevasindhuservices.karnataka.gov.in/login.do#](https://sevasindhuservices.karnataka.gov.in/login.do#)
 
@@ -94,29 +100,32 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 
 
 
-4. Below given window opens. Scroll down and start filling the information. 
+5. Below given window opens. Scroll down and start filling the information. 
 
-Check the box for consnet and scroll down
+    Check the box for consnet and scroll down
 
     | ![Alt text](assets/p13.jpg) | ![Alt text](assets/p14.jpg) |
     |--------------------------|--------------------------|
 
-5. In **applicant details** section
+6. In **applicant details** section
 
     Please fill the **address in your aadhar card** and the **mobile number you gave for Seva Sindhu**
 
    <img src="assets/p15.jpg"  width="50%">
 
 ### Filling details of Nominee
-6. in Grid details
+
+7. in Grid details
+    
     - My Recommendation: [copy/paste]
         ``` bash
         Virupakshappa Korgal
         ```
     - Select the field: ಸಂಕೀರ್ಣ
-        **(At the end of drop field)**
 
-        <img src="assets/p17.png"  width="50%">
+      **(At the end of drop field)**
+
+        <img src="assets/p17.jpg"  width="50%">
 
 
     - Select Sub Category -
@@ -197,11 +206,11 @@ Check the box for consnet and scroll down
         ಕೋರಗಲ್ ವಿರುಪಾಕ್ಷಪ್ಪನವರು ಲೇಖಕರಾಗಿ ಕಥಾಸಂಕಲನ, ಮಕ್ಕಳಕಥೆ, ಕಾವ್ಯ, ಪ್ರಬಂಧ ಸಂಕಲನ, ಪ್ರವಾಸ ಕಥನ, ಪುರಾಣ, ವಚನ ಸಂಕಲನ, ಗಣಿತ ಸಂಶೋಧನೆ, ನಾಟಕ, ಚರಿತ್ರೆ, ಸಾಹಿತ್ಯ ಸಂಪಾದನೆ ವಿಭಾಗಗಳಲ್ಲಿ ೨೩ ಪುಸ್ತಕಗಳನ್ನು ಪ್ರಕಟಿಸಿದ್ದಾರೆ. ಸುಧಾ, ಮಯೂರ ಹಾಗೂ ಅನೇಕ ಪತ್ರಿಕೆಗಳಲ್ಲಿ ಕಥೆ, ಅಂಕಣ ಪ್ರಕಟವಾಗಿವೆ. ಆಕಾಶವಾಣಿಯಲ್ಲಿ ಚಿಂತನ, ಕಥೆ, ಕಾವ್ಯ, ನಾಟಕಗಳು ಪ್ರಸಾರವಾಗಿವೆ. ತಾಲೂಕ, ಜಿಲ್ಲೆ ಹಾಗೂ ಅಖಿಲ ಭಾರತ ಸಾಹಿತ್ಯಸಮ್ಮೇಳನಗಳ ಕಮ್ಮಟಗಳಲ್ಲಿ ಭಾಗವಹಿಸಿದ್ದಾರೆ. ಹನ್ನೆರಡನೆಯ ಶತಮಾನದಲ್ಲಿ ಜೈನ ಕವಿ ರಾಜಾದಿತ್ಯನಿಂದ ಕನ್ನಡದಲ್ಲಿ ರಚಿತವಾದ ಗಣಿತ ಕೃತಿಗಳ ಬಗ್ಗೆ ಸಂಶೋಧನೆ ಮಾಡಿದ್ದಾರೆ. ಗಣಿತ ಶಿಕ್ಷಕರಾಗಿ, ನಾಲ್ಕು ಕಥಾಸಂಕಲನಗಣ್ನು ಪ್ರಕಟಸಿದ್ದಾರೆ. ಹಾವೇರಿ, ಧಾರವಾಡ ಜಿಲ್ಲೆಯಲ್ಲೆಲ್ಲ ಕಥಾಕಮ್ಮಟಗಳನ್ನು ಏರ್ಪಡಿಸಿ ಕಥೆಗಾರ ರಸಂಖ್ಯೆಯನ್ನು ಬೆಳಸಿದ್ದಾರೆ. ಅವರ ಸಂಪಾದನೆಯಲ್ಲಿ ಮೂರು ಜಿಲ್ಲಾ ಪ್ರಾತಿನಿಧಿಕ ಕಥಾಸಂಕಲನಗಳು ಪ್ರಕಟಗೊಂಡಿವೆ. ಇಂಗ್ಲಿಷಿನ ಭರಾಟೆಯ ಈದಿನಮಾನಗಳಲ್ಲಿ, ಹಾವೇರಿಗೊಂದು ಒಳ್ಳೆಯ ಶಾಲೆಯನ್ನು ತರಬೇಕೆಂದು ಗೆಳೆಯರ ಬಳಗದವತಿಯಿಂದ ಉತ್ಕೃಷ್ಟ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಶಾಲೆಯನ್ನು ಸ್ಥಾಪಿಸಿ ನಡೆಯಿಸಿಕೊಂಡು ಬರುತ್ತಿದ್ದಾರೆ. ಮಾರಕರೋಗಗಳಿಗೆ ಲಸಿಕೆಗಳೆಇರದಿದ್ದ  ೧೯೭೦ರ ದಶಕದಿಂದ ಹೊರಗಿನಿಂದ ಲಸಿಕೆಯನ್ನು ತರಿಸಿ ಗೆಳೆಯರಬಳಗದಿಂದ ಪೋಲಿಯೊ ಲಸಿಕೆ, ಬಿಸಿಜಿ ಲಸಿಕೆ, ಧಮಾರ ರೋಗದ ಲಸಿಕೆಗಳನ್ನು ಪ್ರತಿ ತಿಂಗಳು ಕೊಡುವ ವ್ಯವಸ್ಥೆಯನ್ನು ಮಾಡುವ ಮೂಲಕ ವೈದ್ಯಕೀಯ ಸೇವೆಯನ್ನೂ ನೀಡಿದ್ದಾರೆ. ಕೋರಗಲ್ ವಿರುಪಾಕ್ಷಪ್ಪನವರು ಅವರು ಒಳ್ಳೆಯ ಸಂಶೋಧಕರಾದರೂ, ಪ್ರಚಾರ ಪ್ರೀಯರಲ್ಲದಿದ್ದುದಕ್ಕೆ ಬೆಳಕಿಗೆ ಬಂದಿಲ್ಲ. ಕೋರಗಲ್ ವಿರುಪಾಕ್ಷಪ್ಪನವರು ಕನ್ನಡ ಪತ್ರಿಕೆಗಳಿಗೆ ಕಥೆ ಬರೆಯುತ್ತಿದ್ದುರಿಂದ, ಕಥೆಗಾರರೆಂದು ಗುರುತಿಸಿಕೊಂಡು ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ. ಇವರು ಒಟ್ಟು ೨೫ ಪುಸ್ತಕಗಳನ್ನು ವಿವಿಧ ವಿಷಯಗಳಲ್ಲಿ ಪ್ರಕಟಿಸಿದ್ದಾರೆ. ಒಟ್ಟು ಏಳು ರೇಡಿಯೋ ಕಾರ್ಯಕ್ರಮಗಳಲ್ಲಿ ತಮ್ಮ ಕೊಡುಗೆಯನ್ನು ನೀಡಿದ್ದಾರೆ. ಜಗದ ಅಭಾವದ ಕಾರಣ ಎಲ್ಲ ವಿವರ ಇಲ್ಲಿ ನೀಡಲು ಆಗುತ್ತಿಲ್ಲ.
         ```
 
-7. Check **I Agree**, enter captcha and click **Submit** at the bottom of the page
+8. Check **I Agree**, enter captcha and click **Submit** at the bottom of the page
 
    <img src="assets/p18.jpg"  width="50%">
 
-8. Below given window pops up.
+9. Below given window pops up.
 
    Scroll down and click **Attach annexure**
 
@@ -225,9 +234,10 @@ Check the box for consnet and scroll down
     |--------------------------|--------------------------|
 
 12. You get the acknowledgement page
+    
     (Thank you soooooo much)
 
-   <img src="assets/p26.jpg"  width="50%">
+    <img src="assets/p26.jpg"  width="50%">
 
 13. You can export a copy.
 
