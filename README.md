@@ -15,8 +15,6 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
    
     [https://sevasindhuservices.karnataka.gov.in/login.do#](https://sevasindhuservices.karnataka.gov.in/login.do#)
 
-   <img src="assets/p29.png"  width="50%">
-
 3. Click on **New User? Register here** 
     
     (If you already have an account, It'll say, account exists and will ask you to login. In case you don't remember the password, you can select **Forgot Password** and reset with the registered mobile number)
@@ -76,6 +74,8 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
     [https://sevasindhuservices.karnataka.gov.in/login.do#](https://sevasindhuservices.karnataka.gov.in/login.do#)
 
     Now, login!!
+    
+   <img src="assets/p29.png"  width="50%">
 
 2. The below given window opens
 
