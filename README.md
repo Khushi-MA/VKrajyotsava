@@ -8,6 +8,8 @@ Attach **02_Biodata_V C Korgal.pdf** - [Download file]({{02_Biodata_V C Korgal.p
 
 3. <a href="https://octodex.github.com/VKrajyotsava/blob/main/02_Biodata_V C Korgal.pdf" title="Download" download>Download</a>
 
+4. [goo](https://drive.google.com/uc?export=download&id=/d/1QD6Xr2iZ6mfzbGslyacXUbqwt8lkf)
+
 
 My dear friends, I kindly ask for your support in nominating my grandfather, Mr. Korgal Virupakshappa, for this year’s Rajyotsava Award. 
 
