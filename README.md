@@ -16,7 +16,7 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
     
     (If you already have an account, It'll say, account exists and will ask you to login. In case you don't remember the password, you can select **Forgot Password** and reset with the registered mobile number)
 
-    ![Alt text](assets/p01.png)
+   <img src="assets/p01.png"  width="50%">
 
 ### Verify your Aadhaar Card
 
@@ -24,7 +24,7 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 
     click next
 
-    ![Alt text](assets/p02.png)
+   <img src="assets/p02.png"  width="50%">
 
 4. Enter the **OTP** you recieve at your **Registered Mobile number in Aadhar Card**
     
@@ -193,15 +193,19 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 
 7. Check **I Agree**, enter captcha and click **Submit** at the bottom of the page
 
-    ![Alt text](assets/p18.jpg)
+   ![Alt text](assets/p18.jpg)
 
-8. Below given window pops up.
-    Scroll down and click **Attach annexure**
-    ![Alt text](assets/p19.jpg)
-    ![Alt text](assets/p20.jpg)
+9. Below given window pops up.
 
-9. Selct as given in the below picture
-    Download this pdf: [02_Biodata_V C Korgal.pdf](https://drive.google.com/uc?export=download&id=1QD6Xr2iZ6mfzbGslyacXUbqwt8lkf3HR)
+   Scroll down and click **Attach annexure**
+
+   ![Alt text](assets/p19.jpg)
+
+   ![Alt text](assets/p20.jpg)
+
+10. Selct as given in the below picture
+
+   Download this pdf: [02_Biodata_V C Korgal.pdf](https://drive.google.com/uc?export=download&id=1QD6Xr2iZ6mfzbGslyacXUbqwt8lkf3HR)
 
    Now click **choose file** and attach that 02_Biodata_V C Korgal.pdf
 
@@ -227,14 +231,7 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
     ![Alt text](assets/p27.jpg)
     ![Alt text](assets/p28.jpg)
 
-Thankyou soo much for for the support
-
-
-
-
-
-
-### Attaching his biodata
+# Thankyou soo much for for the support
 
 
 
