@@ -10,10 +10,14 @@ Your vote and encouragement would mean a lot in recognizing his outstanding cont
 
 
 1. Open Login/register portal
-    Seva Sindhu portal link:
+
+   Seva Sindhu portal link:
+   
     [https://sevasindhuservices.karnataka.gov.in/login.do#](https://sevasindhuservices.karnataka.gov.in/login.do#)
 
-2. Click on **New User? Register here** 
+   <img src="assets/p29.png"  width="50%">
+
+3. Click on **New User? Register here** 
     
     (If you already have an account, It'll say, account exists and will ask you to login. In case you don't remember the password, you can select **Forgot Password** and reset with the registered mobile number)
 
