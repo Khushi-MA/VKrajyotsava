@@ -2,7 +2,7 @@
 
 My dear friends, I kindly ask for your support in nominating my grandfather, Mr. Korgal Virupakshappa, for this year’s Rajyotsava Award. 
 
-Your vote and encouragement would mean a lot in recognizing his outstanding contributions.
+Your nomination and encouragement would mean a lot in recognizing his outstanding contributions.
 
 (For any concerns, feel free to mail me. Thankyou)
 
