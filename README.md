@@ -239,7 +239,7 @@ Your nomination and encouragement would mean a lot in recognizing his outstandin
 
     <img src="assets/p26.jpg"  width="50%">
 
-13. You can export a copy.
+13. Kindly export a copy and share it with me
 
     Don't forget to log out!
     | ![Alt text](assets/p27.jpg) | ![Alt text](assets/p28.jpg) |
